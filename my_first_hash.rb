@@ -4,9 +4,11 @@ end
 
 
 def shipping_manifest
-  shipping_manifest = {"whale bone corset" => 5, "porcelain vase" => 2, "oil painting" => 3}
-    puts shipping_manifest
-end
+  the_manifest = {
+    "whale bone corset" => 5, 
+    "porcelain vase" => 2, 
+    "oil painting" => 3}
+
 
 def retrieval
   shipping_manifest = {
