@@ -1,6 +1,5 @@
 def my_hash
   my_hash = {"cat" => "Toby", "dog" => "Bella"}
-  return my_hash[1]
 end
 
 
